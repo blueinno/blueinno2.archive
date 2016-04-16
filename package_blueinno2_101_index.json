@@ -14,7 +14,7 @@
                "architecture": "BlueInno2",
                "version": "1.0.1",
                "category": "Arduino",
-               "url": "https://github.com/crzhacko/blueinno2.archive/raw/master/BlueInno2_101.tar.gz",
+               "url": "https://github.com/bluinno/blueinno2.archive/raw/master/BlueInno2_101.tar.gz",
                "archiveFileName": "BlueInno2_101.tar.gz",
                "checksum": "SHA-256:523ce5adb17c797c70b395d3bb40194c9115a768bcf83bf091565dc06fde087c",
                "size": "38437729",
